@@ -1,0 +1,28 @@
+{
+    "singelePrefix" : "!",
+    "allPrefix" : "$",
+    "anonSinglePrefix" : "%",
+    "anonAllPrefix" : "&",
+    "serverName" : "SERVER-NAME",
+    "sendChannelSuffix" : "-messenger",
+    "receiveChannelSuffix" : "-receiver",
+    "allowAnon" : true,
+    "randomMessages":[
+        " says: ",
+        " wants you to know: ",
+        " sent you a message: ",
+        " has a secret to share: ",
+        " whispers in your ear: "
+    ],
+    "randomAnonMessages":[
+        "Check this out: ",
+        "Seems sus. Oh well.",
+        "Boop: ",
+        "From Anon: ",
+        "Someone suspicious says: ",
+        "YOU GOT MAIL: ",
+        "Psst: ",
+        "Someone wants you to know: "
+    ],
+    "token" : "YOUR-TOKEN-HERE"
+}
